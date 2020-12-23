@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "UnipolarNeuron", "UnipolarNeuron\UnipolarNeuron.pyproj", "{6FD131C4-2492-431D-8196-B7AD7E4F47B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FD131C4-2492-431D-8196-B7AD7E4F47B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD131C4-2492-431D-8196-B7AD7E4F47B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63CD4121-7BAB-4FEC-B01E-16A2833914EE}
+	EndGlobalSection
+EndGlobal
